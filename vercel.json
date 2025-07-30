@@ -9,7 +9,7 @@
     }
   ],
   "env": {
-    "GOOGLE_SHEETS_API_KEY": "@google_sheets_api_key",
-    "GOOGLE_SHEET_ID": "@google_sheet_id"
+    "GOOGLE_SHEETS_API_KEY": "AIzaSyCSKa4k3fyULiZmH7ZZKkEYz2NWZ5EI2qI",
+    "GOOGLE_SHEET_ID": "1MOUt-fhusC7z3F0axUmglV4r500IaJuerdngvVJSJ5E"
   }
 }
